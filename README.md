@@ -17,14 +17,14 @@ If you have a link or a notebook that you would like to see here, please fork th
 
 The ICESat-2 project has funded the development of several large-scale projects aimed at improving access to ICESat-2 data.
 
-### IcePyx
+- IcePyx
 
-### slideRule
+- slideRule
 
-### OpenAltimetry
+-  OpenAltimetry
 
 ## PI-owned repositories
 
 Projects within the ICESat-2 science team have also generated some great open-source content.  These may be at different levels of polish, but they almost certainly contain all the tools you might need to get up and running with ICESat-2 data.
 
-### [The Antarctic Rift Catalog Project](https://github.com/bradlipovsky/antarctic-rift-catalog)
+- [The Antarctic Rift Catalog Project](https://github.com/bradlipovsky/antarctic-rift-catalog)
