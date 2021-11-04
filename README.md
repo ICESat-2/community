@@ -1,7 +1,7 @@
 # ICESat-2 / community
 A place to share code for working with ICESat-2 data
 
-# Introduction
+## Introduction
 
 This repository is inded to promote access to ICESat-2 data from NASA, by offering access to the latest community-driven code, and by bringing together tools developed by the scientific community for accessing, processing, and visualizing ICESat-2 data.  
 
@@ -13,18 +13,18 @@ The main product of the ICESat-2 community repository is the document you are re
 
 If you have a link or a notebook that you would like to see here, please fork the repository, add your material, and submit a pull request.
 
-# ICESat-2 open-source projects
+## ICESat-2 open-source projects
 
 The ICESat-2 project has funded the development of several large-scale projects aimed at improving access to ICESat-2 data.
 
-## IcePyx
+### IcePyx
 
-## slideRule
+### slideRule
 
-## OpenAltimetry
+### OpenAltimetry
 
-# PI-owned repositories
+## PI-owned repositories
 
 Projects within the ICESat-2 science team have also generated some great open-source content.  These may be at different levels of polish, but they almost certainly contain all the tools you might need to get up and running with ICESat-2 data.
 
-
+## [The Antarctic Rift Catalog Project](https://github.com/bradlipovsky/antarctic-rift-catalog)
