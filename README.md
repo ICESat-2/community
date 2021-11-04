@@ -17,11 +17,11 @@ If you have a link or a notebook that you would like to see here, please fork th
 
 The ICESat-2 project has funded the development of several large-scale projects aimed at improving access to ICESat-2 data.
 
-- IcePyx
+- [IcePyx](https://github.com/icesat2py/icepyx)
 
-- slideRule
+- [slideRule](https://github.com/ICESat2-SlideRule)
 
--  OpenAltimetry
+-  [OpenAltimetry](https://github.com/OpenAltimetry)
 
 ## PI-owned repositories
 
