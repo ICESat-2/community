@@ -28,3 +28,4 @@ The ICESat-2 project has funded the development of several large-scale projects 
 Projects within the ICESat-2 science team have also generated some great open-source content.  These may be at different levels of polish, but they almost certainly contain all the tools you might need to get up and running with ICESat-2 data.
 
 - [The Antarctic Rift Catalog Project](https://github.com/bradlipovsky/antarctic-rift-catalog)
+- [pointCollection](https://github.com/SmithB/pointCollection/)
