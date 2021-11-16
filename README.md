@@ -23,6 +23,14 @@ The ICESat-2 project has funded the development of several large-scale projects 
 
 -  [OpenAltimetry](https://github.com/OpenAltimetry)
 
+## Hackweeks
+
+A number of ICESat-2 resources have been created as part of the ICESat-2 hackweeks:
+
+- [ICESat-2 hackweek](https://github.com/ICESAT-2HackWeek)
+
+- [SnowEx hackweek](https://snowex-hackweek.github.io/website/intro.html)
+
 ## PI-owned repositories
 
 Projects within the ICESat-2 science team have also generated some great open-source content.  These may be at different levels of polish, but they almost certainly contain all the tools you might need to get up and running with ICESat-2 data.
