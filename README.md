@@ -35,5 +35,6 @@ A number of ICESat-2 resources have been created as part of the ICESat-2 hackwee
 
 Projects within the ICESat-2 science team have also generated some great open-source content.  These may be at different levels of polish, but they almost certainly contain all the tools you might need to get up and running with ICESat-2 data.
 
-- [The Antarctic Rift Catalog Project](https://github.com/bradlipovsky/antarctic-rift-catalog)
-- [pointCollection](https://github.com/SmithB/pointCollection/)
+- [The Antarctic Rift Catalog Project](https://github.com/bradlipovsky/antarctic-rift-catalog) : A project to map rifts in ice shelves around Antarctica
+- [CapToolkit](https://github.com/fspaolo/captoolkit) : A do-it-all library of code for working with cryospheric altimetry data
+- [pointCollection](https://github.com/SmithB/pointCollection/) : A library of code for basic interactions with point data (including ICESat-2 tools)
