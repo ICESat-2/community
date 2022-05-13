@@ -31,7 +31,7 @@ A number of ICESat-2 resources have been created as part of the ICESat-2 hackwee
 
 - [SnowEx hackweek](https://snowex-hackweek.github.io/website/intro.html)
 
-## PI-owned repositories
+## PI-maintained repositories
 
 Projects within the ICESat-2 science team have also generated some great open-source content.  These may be at different levels of polish, but they almost certainly contain all the tools you might need to get up and running with ICESat-2 data.
 
@@ -42,3 +42,11 @@ Projects within the ICESat-2 science team have also generated some great open-so
 - [CapToolkit](https://github.com/fspaolo/captoolkit) : A do-it-all library of code for working with cryospheric altimetry data
 
 - [pointCollection](https://github.com/SmithB/pointCollection/) : A library of code for basic interactions with point data (including ICESat-2 tools)
+
+## Data-product code repositories
+
+Some of the higher-level products are generated using code that is available on github:
+
+- [ATL11](https://github.com/suzanne64/ATL11) : Code to generate the ATL11 (Slope-Corrected Land Ice Height Time Series) product based on the ATL06 (Land-ice height) product.
+
+- [ATL14/15](https://github.com/SmithB/ATL1415) : Code to generate the gridded ice-sheet DEM and height-change products from ATL11
