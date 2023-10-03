@@ -1,9 +1,9 @@
 # ICESat-2 / community
-A place to share code for working with ICESat-2 data
+A place to share [code for working with ICESat-2 data](https://github.com/topics/icesat-2)
 
 ## Introduction
 
-This repository is inded to promote access to ICESat-2 data from NASA, by offering access to the latest community-driven code, and by bringing together tools developed by the scientific community for accessing, processing, and visualizing ICESat-2 data.  
+This repository is intended to promote access to ICESat-2 data from NASA, by offering access to the latest community-driven code, and by bringing together tools developed by the scientific community for accessing, processing, and visualizing ICESat-2 data.  
 
 ## What this repository provides:
 
@@ -19,9 +19,9 @@ The ICESat-2 project has funded the development of several large-scale projects 
 
 - [IcePyx](https://github.com/icesat2py/icepyx) : A community-driven effort to provide data-access tools for ICESat-2 data
 
-- [slideRule](https://github.com/ICESat2-SlideRule) : A framework that allows high-performace data access and real-time generation of custom ICESat-2 products
+- [SlideRule](https://github.com/ICESat2-SlideRule) : A framework that allows high-performace data access and real-time generation of custom ICESat-2 products
 
--  [OpenAltimetry](https://github.com/OpenAltimetry) : A web-based browser for ICESat-2 data, that also allows access to underlying data structures
+- [OpenAltimetry](https://github.com/OpenAltimetry) : A web-based browser for ICESat-2 data, that also allows access to underlying data structures
 
 ## Hackweeks
 
@@ -39,9 +39,11 @@ Projects within the ICESat-2 science team have also generated some great open-so
 
 - [The Antarctic Rift Catalog Project](https://github.com/bradlipovsky/antarctic-rift-catalog) : A project to map rifts in ice shelves around Antarctica
 
-- [CapToolkit](https://github.com/fspaolo/captoolkit) : A do-it-all library of code for working with cryospheric altimetry data
+- [CapToolkit](https://github.com/nasa-jpl/captoolkit) : A do-it-all library of code for working with cryospheric altimetry data
 
-- [pointCollection](https://github.com/SmithB/pointCollection/) : A library of code for basic interactions with point data (including ICESat-2 tools)
+- [pointCollection](https://github.com/SmithB/pointCollection) : A library of code for basic interactions with point data (including ICESat-2 tools)
+
+- [Grounding-Zones](https://github.com/tsutterley/Grounding-Zones) : Tools for Estimating Grounding Zone Locations with data from NASA Polar Altimetry Missions
 
 ## Data-product code repositories
 
