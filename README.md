@@ -23,7 +23,7 @@ The ICESat-2 project has funded the development of several large-scale projects 
 
 - [OpenAltimetry](https://github.com/OpenAltimetry) : A web-based browser for ICESat-2 data, that also allows access to underlying data structures
 
-- [altimetryFit][https://github.com/SmithB/altimetryFit] : A framework for fitting smooth surfaces to a variety of types of altimetry data
+- [altimetryFit](https://github.com/SmithB/altimetryFit) : A framework for fitting smooth surfaces to a variety of types of altimetry data
 
 ## Hackweeks
 
