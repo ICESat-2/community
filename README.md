@@ -54,3 +54,10 @@ Some of the higher-level products are generated using code that is available on 
 - [ATL11](https://github.com/suzanne64/ATL11) : Code to generate the ATL11 (Slope-Corrected Land Ice Height Time Series) product based on the ATL06 (Land-ice height) product.
 
 - [ATL14/15](https://github.com/SmithB/ATL1415) : Code to generate the gridded ice-sheet DEM and height-change products from ATL11
+
+## Associated projects
+
+Other projects that are friends and neighbors of ICESat-2
+
+- [CryoCloud](https://cryointhecloud.com/) : An all-encompassing community and hub for open-source work in the cryosciences
+  
